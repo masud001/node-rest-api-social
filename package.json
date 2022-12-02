@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-social",
+  "version": "1.0.0",
+  "description": "rest-api by using nodejs for social media application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masud001/node-rest-api-social.git"
+  },
+  "keywords": [
+    "rest-api",
+    "social",
+    "react",
+    "api",
+    "project"
+  ],
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masud001/node-rest-api-social/issues"
+  },
+  "homepage": "https://github.com/masud001/node-rest-api-social#readme"
+}
